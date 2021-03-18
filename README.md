@@ -1,2 +1,2 @@
-# LearningPython
-lol
+# Hunter Williams
+learning python 
