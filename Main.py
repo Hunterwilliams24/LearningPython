@@ -1,5 +1,12 @@
-print("spongebob!")
-print("finding nemo!")
-print("transformers!")
-print("star wars!")
-print("herry potter!")
+noun1 = "Mountains"
+adjective1 = "green"
+food1 = "cheese"
+food1 = "burgers"
+body1 = "finger"
+noun2 = "bike"
+verb1 = "run"
+color1 = "purple"
+color2 = "red"
+adjective2 = "loud"
+noun3 = "dog"
+print("Our" + noun1 " are packed for a hike in the " + adjective1 "Mountains! we are carrying ")
