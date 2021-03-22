@@ -1,7 +1,7 @@
 noun1 = "Mountains"
 adjective1 = "green"
 food1 = "cheese"
-food1 = "burgers"
+food2 = "burgers"
 body1 = "finger"
 noun2 = "bike"
 verb1 = "run"
@@ -9,4 +9,4 @@ color1 = "purple"
 color2 = "red"
 adjective2 = "loud"
 noun3 = "dog"
-print("Our" + noun1 " are packed for a hike in the " + adjective1 "Mountains! we are carrying ")
+print("Our " + noun1 + " are packed for a hike in the " + adjective1 + " Mountains! We are carrying a picnic lunch with " + food1 + " and " + food2 + " on our " + body1 + " and i have a " + noun2 + " for " + verb1 + " photos. we will " + color1 + " and " + color2 +" flowers, and pass a " + adjective2 + " waterfall that sounds like a " + noun3)
