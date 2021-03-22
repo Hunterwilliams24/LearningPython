@@ -1,12 +1,12 @@
-noun1 = "Mountains"
-adjective1 = "green"
-food1 = "cheese"
-food2 = "burgers"
-body1 = "finger"
-noun2 = "bike"
-verb1 = "run"
-color1 = "purple"
-color2 = "red"
-adjective2 = "loud"
-noun3 = "dog"
+noun1 = input("input a place\n")
+adjective1 = input("input a adjective\n")
+food1 = input("input a food.\n")
+food2 = input("input a food.\n")
+body1 = input("input body part\n")
+noun2 = input("input a noun\n")
+verb1 = input("input a verb\n")
+color1 = input("input a color\n")
+color2 = input("input a color\n")
+adjective2 = input("input a adjective\n")
+noun3 = input("input a noun\n")
 print("Our " + noun1 + " are packed for a hike in the " + adjective1 + " Mountains! We are carrying a picnic lunch with " + food1 + " and " + food2 + " on our " + body1 + " and i have a " + noun2 + " for " + verb1 + " photos. we will " + color1 + " and " + color2 +" flowers, and pass a " + adjective2 + " waterfall that sounds like a " + noun3)
